@@ -1,5 +1,5 @@
-PCI DSS Utility
-===============
+Addressing PCI DSS v3 Req. 8.2.1 in Java
+========================================
 
 Inspired by: https://t-rob.net/2013/02/17/its-time-for-sensible-password-security-standards-in-the-pci-dss/
 
