@@ -1,20 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package org.github.lsiu.pcidss;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.Properties;
 import org.github.lsiu.pcidss.util.FixPciDssv3Req821;
 
 /**
- *
- * @author MPayMe
+ * Sample application illustrating usage
+ * @author lsiu
  */
 public class SampleApp {
     
