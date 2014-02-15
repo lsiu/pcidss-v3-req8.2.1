@@ -53,4 +53,4 @@ The output will be in `base64` format. Storge this encrypted password in the _pa
 Sample Code
 -----------
 
-See [`src/main/java/org/github/lsiu/pcidss/SampleApp.java`](src/main/java/org/github/pcidss/SampleApp.java) for a code exmaple
+See [`/src/main/java/org/github/lsiu/pcidss/SampleApp.java`](https://github.com/lsiu/pcidss-v3-req8.2.1/blob/master/src/main/java/org/github/lsiu/pcidss/SampleApp.java) for a code exmaple
