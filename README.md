@@ -11,7 +11,7 @@ More specifically, the testing procedure 8.2.1b states:
 
 > 8.2.1.b For a sample of system components, examine password files to verify that passwords are unreadable during storage
 
-No matter how, _outbound password_ will need to be at plain text at some point before you connect to external system. Therefore, the encrypted storage of the password to the external system will need to be reversible.
+No matter how, _outbound password_ will need to be in plain text format at some point before you connect to an external system. Therefore, the encrypted storage of the password to the external system will need to be reversible.
 
 So what can we do?
 * Encrypt the password with symmetric encryption and store that in the _password file_.
