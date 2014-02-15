@@ -50,3 +50,7 @@ The output will be in `base64` format. Storge this encrypted password in the _pa
 
 **Step 4.** Retrieve and decrypt the encrypted-password in your code using `FixPciDssv3Req821.decrypt(String)`
 
+Sample Code
+-----------
+
+See [`src/main/java/org/github/lsiu/pcidss/SampleApp.java`](src/main/java/org/github/pcidss/SampleApp.java) for a code exmaple
