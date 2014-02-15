@@ -57,7 +57,7 @@ public class FixPciDssv3Req821 {
 
     /*
      May also encrypt with openssl using
-     echo -n "testa" | openssl enc -aes-256-cbc -e -K <key in hex tring format> -iv <salt in hex string format> -a
+     echo -n "secret" | openssl enc -aes-256-cbc -e -K <key in hex tring format> -iv <salt in hex string format> -a
      */
     public static String encrypt2base64String(String secret) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, InvalidAlgorithmParameterException, IllegalBlockSizeException, BadPaddingException {
         final Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5Padding");
