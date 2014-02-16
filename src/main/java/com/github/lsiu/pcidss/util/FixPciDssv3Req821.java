@@ -1,4 +1,4 @@
-package org.github.lsiu.pcidss.util;
+package com.github.lsiu.pcidss.util;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

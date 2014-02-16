@@ -1,8 +1,8 @@
-package org.github.lsiu.pcidss;
+package com.github.lsiu.pcidss;
 
 import java.io.FileInputStream;
 import java.util.Properties;
-import org.github.lsiu.pcidss.util.FixPciDssv3Req821;
+import com.github.lsiu.pcidss.util.FixPciDssv3Req821;
 
 /**
  * Sample application illustrating usage

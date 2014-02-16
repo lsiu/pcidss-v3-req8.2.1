@@ -1,6 +1,6 @@
-package com.mpayme.pcidss.util;
+package com.github.lsiu.pcidss.util;
 
-import org.github.lsiu.pcidss.util.FixPciDssv3Req821;
+import com.github.lsiu.pcidss.util.FixPciDssv3Req821;
 import org.junit.Assert;
 import org.junit.Test;
 
